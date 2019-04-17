@@ -12,7 +12,9 @@ According to choice, user will be asked to enter data, accordig to data medicins
 
 
 #Team Details
-Members: Mridul Gandhi - 8447122306 
-Rohan Arora - 9511533924
+Members:
 Aaditya Srivastava
-Raunak Goswami
+Mridul Gandhi - 8447122306 
+Raunak Goswami-7678527429
+Rohan Arora - 9511533924
+
