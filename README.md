@@ -8,7 +8,7 @@ Deep Learning
 Taking details from users, we predict whether the user is diagnosed with diabetes, and further suggest Remedies which will be the best for user to make him healthy again. in remedies also we provided two types Aelopathic aud ayurvedic , user will be suggested about remedies according to his choice.
 Other is the Cervical Cancer Detection through Deep Learning.
 Firstly user will choose the button, whether he /she wants to analyse for diabetes or cervical cancer.
-According to choice, user will be asked to enter data, accordig to data medicins will be prescribed.
+According to choice, user will be asked to enter data, according to data medicines will be prescribed.
 
 
 #Team Details
